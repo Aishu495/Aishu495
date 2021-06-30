@@ -3,7 +3,7 @@
 www.linkedin.com/in/aishwarya-d-2a6530216
 
 
-
+Strong in design and integration with intuitive problem solving skills. Proficient in C, JAVA, HTML, CSS, JAVASCRIPT, Passionate about implementing and launching new projects. Ability to perform under tight schedules, capacity to adapt to different environments under any circumstance, looking to start the career as an entry level software engineer with reputed technology.
 
 💬 Ask me about ...- 🌱 I’m currently learning ...
 - 🔭 I’m currently working on ...
