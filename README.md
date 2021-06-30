@@ -1,8 +1,6 @@
 ### Hi Developers 👋
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Renuka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/renuka-maradagi-a06934212/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Renuka-yellow)](https://www.Renuka.me)
+www.linkedin.com/in/aishwarya-d-2a6530216
 
 
 Strong in design and integration with intuitive problem-solving skills. Proficient in C, JAVA, HTML, CSS, SQL and JAVASCRIPT. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
