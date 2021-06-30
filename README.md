@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi developer 👋
 www.linkedin.com/in/aishwarya-d-2a6530216
-outstanding communication skills, good understanding ability, excellent interpersonal skills. Ability to perform under tight schedules, capacity to adapt to different environments under any circumstance, able leadership quality, very active and energetic
-Here are some ideas to get you started:
+Strong in design and integration with intuitive problem solving skills. Proficient in C,JAVA,HTML,CSS,JAVASCRIPT.Passionate about implementing and launchingnew projects.looking to start the career as an entry level software engineer with reputed technology.
 <!--
 **Aishu495/Aishu495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
