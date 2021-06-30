@@ -1,6 +1,7 @@
 ### Hi Developers 👋
 
-www.linkedin.com/in/aishwarya-d-2a6530216
+[![Linkedin Badge](https://img.shields.io/badge/-Aishwarya D-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aishwarya-d-2a6530216/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Aishwarya D-yellow)](https://www.Aishwarya D.me)
 
 
 Strong in design and integration with intuitive problem-solving skills. Proficient in C, JAVA, HTML, CSS, SQL and JAVASCRIPT. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
